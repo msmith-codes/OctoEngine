@@ -1,2 +1,2 @@
 # OctoEngine
-A Java based game engine.
+A C++ based game engine.
